@@ -21,7 +21,12 @@ Are you ready to accept the challenge and explore the Earth, the sky, and space?
 - SwiftUI
 - App Playground
 
+## App previews
 
+<p align="center"> <a> <img width="400" alt="Captura de pantalla 2023-04-19 a la(s) 14 20 19" src="https://user-images.githubusercontent.com/99055585/233191676-faa48792-c510-4f2d-9f70-eb1d5af98ad8.png"> </a>
+<img width="400" alt="Captura de pantalla 2023-04-19 a la(s) 14 20 38" src="https://user-images.githubusercontent.com/99055585/233191749-d6928bcb-f7cd-4f6e-bc54-46329d89257a.png"> 
+<img width="400" alt="Captura de pantalla 2023-04-19 a la(s) 14 23 00" src="https://user-images.githubusercontent.com/99055585/233191761-c2d1d55c-70a5-4628-9c08-3d55e0bdfe6d.png">
+<a> <img width="400" alt="Captura de pantalla 2023-04-19 a la(s) 14 23 51" src="https://user-images.githubusercontent.com/99055585/233191798-b3a688d9-dc33-49d9-ac93-ed4ecd5c5d0f.png"> </a>
 
 ## Youtube Video ▶
 
