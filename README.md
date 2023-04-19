@@ -31,3 +31,8 @@ Are you ready to accept the challenge and explore the Earth, the sky, and space?
 ## Youtube Video ▶
 
 [![Alt text](https://img.youtube.com/vi/qkMU5xHEZ_8/0.jpg)](https://www.youtube.com/watch?v=qkMU5xHEZ_8)
+
+## Credits
+
+> The icons used in this application were designed by Flaticon (https://www.flaticon.com) and used for the development of the application.
+> The graphic materials used in this application were created on Canva (https://www.canva.com) and used for the development of the application.
