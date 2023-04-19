@@ -2,7 +2,7 @@
 
 <h1 align="center"> Mixin'UP 🚀 </h1>
 <p align="center"> App logo</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/99055585/233185832-49af1858-03a7-4121-ad77-358784fd6b25.png"/></p> 
+<p align="center"><img width="250" src="https://user-images.githubusercontent.com/99055585/233194965-c85d75e0-6111-4115-ae55-37c29987ea3b.png"/></p> 
 
 ## About Mixin'UP❔
 
