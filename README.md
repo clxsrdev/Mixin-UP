@@ -35,4 +35,5 @@ Are you ready to accept the challenge and explore the Earth, the sky, and space?
 ## Credits
 
 > The icons used in this application were designed by Flaticon (https://www.flaticon.com) and used for the development of the application.
+
 > The graphic materials used in this application were created on Canva (https://www.canva.com) and used for the development of the application.
