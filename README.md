@@ -1,6 +1,6 @@
 # WWDC23 Swift Student Challenge Submission 🍎
 
-<h1 align="center"> Mixin-UP 🚀 </h1>
+<h1 align="center"> Mixin'UP 🚀 </h1>
 <p align="center"> App logo</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/99055585/233185832-49af1858-03a7-4121-ad77-358784fd6b25.png"/></p> 
 
