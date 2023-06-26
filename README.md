@@ -1,4 +1,4 @@
-# WWDC23 Swift Student Challenge Submission 
+# WWDC23 Swift Student Challenge Submission 🍎
 
 <h1 align="center"> Mixin'UP 🚀 </h1>
 <p align="center"> App logo</p>
